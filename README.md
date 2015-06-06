@@ -17,11 +17,15 @@ TODO:
 Genius Unofficial API:
 ===
 "Kenshiro" Forson (2015-).
+
 http://genius-api.com/
+
 https://github.com/kenshiro-o/RapGenius-JS
 
 Analytical Bibliography:
 ===
 Hirjee and Brown (2009): http://ismir2009.ismir.net/proceedings/OS8-1.pdf
+
 Liban Ali Yusuf (2011-): https://rapmetrics.wordpress.com/
+
 Matt Daniels (2013-): http://experiments.undercurrent.com/
